@@ -1,6 +1,6 @@
 #jPageReader
 
-API for generic page reader with just JS/HTML5/CSS3.
+API for generic page reader with only JS/HTML5/CSS3.
 
 If the Browser or Webview supported HTML5, CSS3 and javascript you can to use it with no fear. Initially, the interface from web reader is simples and there's a lot of things to do.
 
