@@ -6,7 +6,7 @@ If the Browser or Webview supported HTML5, CSS3 and javascript correctly you can
 
 The next version will support:
 
-1. Dinamic content for page viewer.
+1. Dynamic main content for page viewer.
 2. Drag for next/previous page.
 3. Loading image status.
 4. Optimization code.
