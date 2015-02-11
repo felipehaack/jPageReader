@@ -2,7 +2,7 @@
 
 API for generic page reader with only JS/HTML5/CSS3/JQUERY.
 
-If the Browser or Webview supported HTML5, CSS3 and javascript correctly you can to use it with no fear. Initially, the interface from web reader is simples and there's a lot of things to do.
+If the Browser or Webview supported HTML5, CSS3 and javascript correctly you can to use it with no fear. Initially, the interface from web reader is simple and there's a lot of things to do.
 
 The next version will support:
 
