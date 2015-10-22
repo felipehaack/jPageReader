@@ -11,7 +11,7 @@ The next version will support:
 3. Loading image status.
 4. Optimization code.
 
-##How Use
+##How Use It
 ```
 /* Create an basic struct image */
 jPageViewer.moduleImage.images = [
