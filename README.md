@@ -2,7 +2,7 @@
 
 API for generic page reader with only JS/HTML5/CSS3/JQUERY.
 
-If the Browser or Webview supported HTML5, CSS3 and javascript correctly you can to use it with no fear. Initially, the interface from web reader is simple and there's a lot of things to do.
+If the Browser or Webview supports HTML5, CSS3 and javascript correctly you can use it without fear. Initially, the interface from the web reader is simple and there's a lot of things to do.
 
 The next version will support:
 
@@ -11,7 +11,7 @@ The next version will support:
 3. Loading image status.
 4. Optimization code.
 
-##How Use It
+##How To Use It
 ```
 /* Create an basic struct image */
 jPageViewer.moduleImage.images = [
